@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola 👋, mi nombre es Javier, soy un chico apasionado<br>por la programacion, con ganas de aprender nuevas<br>tecnologias para nunca estar desactualizado.
+Hello 👋, my name is Javier, I am a passionate guy for programming, eager to learn new technologies to never be out of date.
 
 
 ## 🌐 Socials:
